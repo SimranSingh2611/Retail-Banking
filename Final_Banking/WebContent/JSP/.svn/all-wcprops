@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ahd10/!svn/ver/2112/aja37/Group6/Final_banking/WebContent/JSP
+END
+DeleteCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ahd10/!svn/ver/2112/aja37/Group6/Final_banking/WebContent/JSP/DeleteCustomer.jsp
+END
+Transfer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ahd10/!svn/ver/2346/aja37/Group6/Final_banking/WebContent/JSP/Transfer.jsp
+END
+CreateCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ahd10/!svn/ver/2112/aja37/Group6/Final_banking/WebContent/JSP/CreateCustomer.jsp
+END
+Header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/WebContent/JSP/Header.jsp
+END
+Withdraw.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/WebContent/JSP/Withdraw.jsp
+END
+ViewProfile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/WebContent/JSP/ViewProfile.jsp
+END
+UpdateCustomerSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ahd10/!svn/ver/2112/aja37/Group6/Final_banking/WebContent/JSP/UpdateCustomerSuccess.jsp
+END
+ViewAccountDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ahd10/!svn/ver/2346/aja37/Group6/Final_banking/WebContent/JSP/ViewAccountDetails.jsp
+END
+Footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/WebContent/JSP/Footer.jsp
+END
+ViewStatement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ahd10/!svn/ver/2346/aja37/Group6/Final_banking/WebContent/JSP/ViewStatement.jsp
+END
+AccountStatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/WebContent/JSP/AccountStatus.jsp
+END
+AccountDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ahd10/!svn/ver/2346/aja37/Group6/Final_banking/WebContent/JSP/AccountDetails.jsp
+END
+UpdateCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ahd10/!svn/ver/2112/aja37/Group6/Final_banking/WebContent/JSP/UpdateCustomer.jsp
+END
+GetStatement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ahd10/!svn/ver/2346/aja37/Group6/Final_banking/WebContent/JSP/GetStatement.jsp
+END
+CustomerStatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/WebContent/JSP/CustomerStatus.jsp
+END
+Deposit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/WebContent/JSP/Deposit.jsp
+END
+Login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/WebContent/JSP/Login.jsp
+END
+DeleteAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/WebContent/JSP/DeleteAccount.jsp
+END
+CreateAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/WebContent/JSP/CreateAccount.jsp
+END
+TransferSecond.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ahd10/!svn/ver/2346/aja37/Group6/Final_banking/WebContent/JSP/TransferSecond.jsp
+END

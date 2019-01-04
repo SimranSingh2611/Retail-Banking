@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller
+END
+FetchDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ahd10/!svn/ver/2346/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/FetchDetails.java
+END
+AccountStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/AccountStatus.java
+END
+AccountDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/AccountDetails.java
+END
+VerifyUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/VerifyUser.java
+END
+UpdateCustomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/UpdateCustomer.java
+END
+GetStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ahd10/!svn/ver/2346/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/GetStatement.java
+END
+CustomerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/CustomerStatus.java
+END
+Deposit.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/Deposit.java
+END
+FetchAccountDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ahd10/!svn/ver/2346/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/FetchAccountDetails.java
+END
+DeleteAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/DeleteAccount.java
+END
+CreateAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/CreateAccount.java
+END
+DeleteCustomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/DeleteCustomer.java
+END
+Transfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ahd10/!svn/ver/2346/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/Transfer.java
+END
+CreateCustomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/CreateCustomer.java
+END
+PopulateServ.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/PopulateServ.java
+END
+Withdraw.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/Withdraw.java
+END
+ViewProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ahd10/!svn/ver/2025/aja37/Group6/Final_banking/src/com/tcs/ilp/controller/ViewProfile.java
+END

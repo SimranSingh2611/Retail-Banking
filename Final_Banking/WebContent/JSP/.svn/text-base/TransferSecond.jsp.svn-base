@@ -1,0 +1,73 @@
+<%@page import="java.sql.ResultSet"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+
+</head>
+<%
+	ResultSet rs = (ResultSet) request.getAttribute("rs");
+	ResultSet rst = (ResultSet) request.getAttribute("rst");
+%>
+<body>
+	<center>
+		<div style="border: thick solid">
+			<label>Transfer Money </label>
+		</div>
+	</center>
+
+	<form action="<%=request.getContextPath()%>/Transfer?action=second" method="post">
+		<table>
+
+			<tr>
+				<td><label>Current Account Number</label></td>
+				<td><input type="number" name="current_acc_no"
+					value="100002100" readonly></td>
+			</tr>
+
+			<tr>
+				<td><label> Target Account Number</label></td>
+				<td><input type="number"
+					placeholder="enter target account number" name="target_acc_no"
+					value="<%= rs.getInt(2) %>" readonly>
+				</td>
+			</tr>
+
+
+			<tr>
+
+
+
+				<td><label>Target Account Holder Name</label></td>
+				<td><input type="text" name="target_acc_name"
+					value="<%=rst.getString(1)%>" readonly></td>
+			</tr>
+
+			<tr>
+
+
+				<td><label>Enter Amount to Pay</label></td>
+				<td><input type="number" placeholder="enter amount "
+					name="money"></td>
+
+			</tr>
+
+			<tr>
+				<td></td>
+				<td colspan="3"><input type="submit" name="pay"
+					value="Proceed to Pay"></td>
+
+			</tr>
+
+
+		</table>
+	</form>
+
+</body>
+
+
+</body>
+</html>
